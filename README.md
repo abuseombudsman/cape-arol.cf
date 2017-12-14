@@ -2,4 +2,4 @@
 
 ### CAPEÑAROL: Club Atlético Peñarol
 
-<p>Página oficial de CAPEÑAROL.CF, producciones **Tillhör Peñarol** &reg;</p>
+<p>Página oficial de <strong>CAPEÑAROL.CF</strong>, producciones <strong>Tillhör Peñarol</strong> &reg;</p>
